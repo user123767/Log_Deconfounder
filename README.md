@@ -45,7 +45,7 @@ pip install -r requirements.txt
 ## Data
 
 Download the event logs from this link: https://drive.google.com/drive/folders/1N9vkJ_Fd-MurLAC-aZC-fZzKl7SiexCI?usp=share_link
-Place the downloaded logs in `data_logs/`:
+Place the downloaded logs in a folder `data_logs/`.
 
 | Dataset | File | Intervention (decision point → treatment) | Hidden confounder |
 |---|---|---|---|
